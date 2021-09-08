@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Fred-Cach/javascript-profesional/issues"
   },
-  "homepage": "https://github.com/Fred-Cach/javascript-profesional#readme"
+  "homepage": "https://github.com/Fred-Cach/javascript-profesional#readme",
+  "dependencies": {
+    "@fred-cach/mediaplayer": "^1.0.0"
+  }
 }
